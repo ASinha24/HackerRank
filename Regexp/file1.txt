@@ -1,0 +1,10 @@
+Fast languages like C, are difficult to work with and not safe. Compiling speed, dependencies and runtime errors are vast. An interpreted language like Ruby is safe but it’s slower and has many dependencies, one of them is the interpreter itself. Also, for Java, for example, a virtual machine is needed to run the code. Javascript and Node.js are wild kids; which are interpreted, weakly-typed and unsafe to work with (although there are some possible directions like TypeScript or
+compiling directly to Javascript from other safer languages). Also, as an example, Java became too complex and verbose 
+to write. There are many keywords which can be guessed from the context the language constructs inside in
+ (which is called inferring). Ruby is joyful to work with however it’s not designed for speed in mind. 
+Javascript lets you free, go wild and slowly kills you (maintenance nightmare, callback hell (the world before async await),
+no built-in solutions for safety). For example, C language compiles very quickly, however, the language itself has not 
+been designed to be compiled very fast (I’m not talking about the compiler here), so, C programmers can misuse the 
+language facilities to create slow compiling programs. In Go, however, it’s been designed for fast compilation in mind
+from the beginning. So, it’s hard for Go programmers to create slow compiling programs as compared to other languages 
+like C or C++.

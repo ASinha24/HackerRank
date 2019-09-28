@@ -1,3 +1,3 @@
 # HackerRank
 
-Hacker Rank Challenges
+Hacker Rank Challenges solution done by me

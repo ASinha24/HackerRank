@@ -1,0 +1,34 @@
+
+{
+    "check_cadence" : 0,
+    "urls" : [{
+
+        "SITE_ID" : "LINKEDIN",
+
+        "URL" : "linkedin.com"
+
+    },
+    {
+        "SITE_ID" : "GOOGLE",
+
+        "URL" : "google.com"
+
+    },      
+    {
+        "site_id" : "FACEBOOK",
+
+        "url" : "http://www.facebook.com"
+    },
+    {
+        "site_id" : "GOOGLE",
+
+        "url" : "http://www.google.com"
+    },
+    {
+        "site_id" : "STACK",
+
+        "url" : "http://www.stackoverflow.com"
+
+    }]
+
+}
